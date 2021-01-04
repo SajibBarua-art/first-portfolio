@@ -1,0 +1,18 @@
+h1{
+    font-size: 50px;
+}
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+.nameCol{
+    color:rgba(255, 153, 0, 0.932);
+}
+.half-width{
+    width:40%;
+    margin:20px 3% 20px 3%;
+    padding:0 2% 0 2%;
+    float:left;
+}
+.half-width img{
+    width:100%;
+}
